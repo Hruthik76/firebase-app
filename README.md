@@ -1,5 +1,5 @@
-#  Firebase Authentication App (Assignment 2 - Easy)
-
+#  Firebase Authentication App
+### Easy
 This is a basic user authentication app built with **React**, **Firebase**, and **React Router**. It demonstrates a complete user authentication flow using Firebase’s Email/Password method.
 
 ---
